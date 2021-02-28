@@ -1,11 +1,12 @@
 ---
 title: "Matthew"
-author: "Matthew Pruden"
-date: "February 28, 2021"
 output: html_document
 ---
 
 ##About Me
+
+<br>
+
 * I was born and raised in Edmonton, Alberta, Canada
 * I got a bachelor's degree in paleontology from the University of Albera
 * My friends and I discovered a dinosaur trackway out in the badlands of Alberta

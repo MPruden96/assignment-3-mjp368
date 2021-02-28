@@ -1,7 +1,5 @@
 ---
 title: "Meet Matthew and Brian"
-author: "Matthew Pruden"
-date: "February 28, 2021"
 output: html_document
 ---
 
