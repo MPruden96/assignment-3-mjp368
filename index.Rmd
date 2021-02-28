@@ -1,5 +1,5 @@
 ---
-title: "Our Collaborative Website"
+title: "Meet Matthew and Brian"
 author: "Matthew Pruden"
 date: "February 28, 2021"
 output: html_document
@@ -16,5 +16,6 @@ Matthew Pruden - https://github.com/MPruden96
 
 Brian Toy - 
 
+<br>
 
-
+![_Standing atop an outcrop, looking down on times passed._](DinosaurProvincialPark.jpg)
