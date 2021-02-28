@@ -6,8 +6,9 @@ output: html_document
 ---
 
 ##About Me
-* 
-* 
-*
+* I was born and raised in Edmonton, Alberta, Canada
+* I got a bachelor's degree in paleontology from the University of Albera
+* My friends and I discovered a dinosaur trackway out in the badlands of Alberta
+* Currently, I am doing a PhD in Geological Sciences at Cornell University, specializing in Conservation Paleobiology
 
 
