@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##Link to our independant Github Accounts
 
-Matthew Pruden - 
+Matthew Pruden - https://github.com/MPruden96
 
 Brian Toy - 
 
