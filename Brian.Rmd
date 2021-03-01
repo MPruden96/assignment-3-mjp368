@@ -3,7 +3,11 @@ title: "Brian"
 output: html_document
 ---
 
-#### Information about Me!
+<br>
+
+### Information about Me!
+
+---
 
 * I was born in Albany, NY.
 * I have spent time living in the United States, Canada, Scotland, and Israel.

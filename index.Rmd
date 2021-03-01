@@ -7,12 +7,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<br>
 
 ##Link to our independant Github Accounts
 
+---
+
 Matthew Pruden - https://github.com/MPruden96
 
-Brian Toy - 
+Brian Toy - https://github.com/briantoy92
 
 <br>
 

@@ -3,7 +3,11 @@ title: "Matthew"
 output: html_document
 ---
 
+<br>
+
 ### About Me
+
+---
 
 * I was born and raised in Edmonton, Alberta, Canada
 * I got a bachelor's degree in paleontology from the University of Albera
